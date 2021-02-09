@@ -17,7 +17,7 @@ import math
 import random
 from sympy.ntheory.modular import crt
 
-# adding demo comment
+# adding demo comment in the new branch
 
 #defining the menu
 def main():
